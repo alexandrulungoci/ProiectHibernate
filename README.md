@@ -1,1 +1,1 @@
-# ProiectHibernate
+# Hibernate

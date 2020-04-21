@@ -1,0 +1,35 @@
+
+g
+java:S2095A"EUse try-with-resources or close this "Session" in a "finally" clause.(´Ï‚‘ùÿÿÿÿ8½‡¢—.
+g
+java:S20958"EUse try-with-resources or close this "Session" in a "finally" clause.(´Ï‚‘ùÿÿÿÿ8½‡¢—.
+g
+java:S2095m"EUse try-with-resources or close this "Session" in a "finally" clause.(´Ï‚‘ùÿÿÿÿ8½‡¢—.
+g
+java:S2095O"EUse try-with-resources or close this "Session" in a "finally" clause.(´Ï‚‘ùÿÿÿÿ8½‡¢—.
+g
+java:S20950"EUse try-with-resources or close this "Session" in a "finally" clause.(´Ï‚‘ùÿÿÿÿ8½‡¢—.
+g
+java:S2095H"EUse try-with-resources or close this "Session" in a "finally" clause.(´Ï‚‘ùÿÿÿÿ8½‡¢—.
+g
+java:S2095f"EUse try-with-resources or close this "Session" in a "finally" clause.(´Ï‚‘ùÿÿÿÿ8½‡¢—.
+g
+java:S2095W"EUse try-with-resources or close this "Session" in a "finally" clause.(´Ï‚‘ùÿÿÿÿ8½‡¢—.
+g
+java:S2095^"EUse try-with-resources or close this "Session" in a "finally" clause.(´Ï‚‘ùÿÿÿÿ8½‡¢—.
+g
+java:S2095)"EUse try-with-resources or close this "Session" in a "finally" clause.(´Ï‚‘ùÿÿÿÿ8½‡¢—.
+l
+java:S3252"JUse static access with "org.hibernate.cfg.AvailableSettings" for "DRIVER".(´ÖûÕÿÿÿÿÿ8½‡¢—.
+d
+java:S3252"GUse static access with "org.hibernate.cfg.AvailableSettings" for "URL".(Á‡»ã8½‡¢—.
+j
+java:S3252"HUse static access with "org.hibernate.cfg.AvailableSettings" for "USER".(Ì¦ˆ÷øÿÿÿÿ8½‡¢—.
+e
+java:S3252"HUse static access with "org.hibernate.cfg.AvailableSettings" for "PASS".(°öªƒ8½‡¢—.
+h
+java:S3252"KUse static access with "org.hibernate.cfg.AvailableSettings" for "DIALECT".(øŒÒŞ8½‡¢—.
+n
+java:S3252"LUse static access with "org.hibernate.cfg.AvailableSettings" for "SHOW_SQL".(ÌŸåøÿÿÿÿ8½‡¢—.
+r
+java:S3252"PUse static access with "org.hibernate.cfg.AvailableSettings" for "HBM2DDL_AUTO".(Îôà°ûÿÿÿÿ8½‡¢—.

@@ -1,0 +1,36 @@
+
+q
+java:S1192c"ODefine a constant instead of duplicating this literal "Enter Username" 3 times.(¾’…†úÿÿÿÿ8¿‡¢—.
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(’¡‚äşÿÿÿÿ8¿‡¢—.
+U	java:S106."9Replace this use of System.out or System.err by a logger.(½¼ù¹8¿‡¢—.
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(“¸³Ø8¿‡¢—.
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(áª¤ß8¿‡¢—.
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(ö†î8¿‡¢—.
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(¿È§îøÿÿÿÿ8¿‡¢—.
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(Ÿ™œÚ8¿‡¢—.
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(©ÿñç8¿‡¢—.
+_
+java:S1854:"=Remove this useless assignment to local variable "firstName".(Ùî”Îıÿÿÿÿ8¿‡¢—.
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(µ©Ëüÿÿÿÿ8¿‡¢—.
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(Å‘ø‰ûÿÿÿÿ8¿‡¢—.
+U	java:S106="9Replace this use of System.out or System.err by a logger.(ñ¨¢Ä8¿‡¢—.
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(Ñæï­8¿‡¢—.
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(¥Ÿ•óıÿÿÿÿ8¿‡¢—.
+U	java:S106M"9Replace this use of System.out or System.err by a logger.(ğÌ¿8¿‡¢—.
+U	java:S106X"9Replace this use of System.out or System.err by a logger.(âÚÙº8¿‡¢—.
+U	java:S106Z"9Replace this use of System.out or System.err by a logger.(ÊØ‹8¿‡¢—.
+Z	java:S106c"9Replace this use of System.out or System.err by a logger.(¾’…†úÿÿÿÿ8¿‡¢—.
+U	java:S106f"9Replace this use of System.out or System.err by a logger.(Ñæï­8¿‡¢—.
+U	java:S106k"9Replace this use of System.out or System.err by a logger.(’Åòş8¿‡¢—.
+T	java:S106o"9Replace this use of System.out or System.err by a logger.(û×¬8¿‡¢—.
+V	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(¾ÁŒ8¿‡¢—.
+O
+java:S1602ˆ",Remove useless curly braces around statement(î—ãÂşÿÿÿÿ8¿‡¢—.
+[	java:S106‰"9Replace this use of System.out or System.err by a logger.(ø‡³Ïúÿÿÿÿ8¿‡¢—.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(¾’…†úÿÿÿÿ8¿‡¢—.
+O
+java:S1602’",Remove useless curly braces around statement(û„˜üşÿÿÿÿ8¿‡¢—.
+[	java:S106“"9Replace this use of System.out or System.err by a logger.(óâ¹Ñùÿÿÿÿ8¿‡¢—.
+[	java:S106š"9Replace this use of System.out or System.err by a logger.(¾’…†úÿÿÿÿ8¿‡¢—.
+P
+java:S1481:".Remove this unused "firstName" local variable.(Ùî”Îıÿÿÿÿ8¿‡¢—.
